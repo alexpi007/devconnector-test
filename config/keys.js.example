@@ -1,0 +1,4 @@
+module.exports = {
+  mongoURI:
+    "mongodb://<dbuser>:<dbpassword>@ds141872.mlab.com:41872/devconnector-test"
+};
